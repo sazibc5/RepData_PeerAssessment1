@@ -5,11 +5,6 @@ output:
     keep_md: true
 ---
 
-
-## Loading and preprocessing the data
-
-
-
 ## What is mean total number of steps taken per day?
 
 
